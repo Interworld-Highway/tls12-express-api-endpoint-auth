@@ -6,7 +6,7 @@ const basicAuth = require('express-basic-auth')
 const app = express()
 
 // App port
-const PORT = 80
+const PORT = 3000
 
 // Use body parse for JSON
 app.use(bodyParser.json())
