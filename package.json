@@ -1,0 +1,23 @@
+{
+  "name": "tls12-express-api-endpoint-auth",
+  "version": "1.0.0",
+  "description": "TLS 1.2 with Ciphers API Endpoint with Basic Auth",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Interworld-Highway/tls12-express-api-endpoint-auth.git"
+  },
+  "author": "David Aviles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Interworld-Highway/tls12-express-api-endpoint-auth/issues"
+  },
+  "homepage": "https://github.com/Interworld-Highway/tls12-express-api-endpoint-auth#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1"
+  }
+}
